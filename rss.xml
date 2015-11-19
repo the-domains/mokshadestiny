@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MokshaDestiny]]></title>
+        <description><![CDATA[MokshaDestiny]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 Nov 2015 01:48:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I will love you when you are a hurricane]]></title>
+            <description><![CDATA[<article><h1>I will love you when you are a hurricane</h1><p>all the words</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3578e798-a773-4e54-9613-baf9ed7064f0.jpg"></article>]]></description>
+            <link>undefinedi-will-love-you-when-you-are-a-hurricane/index.html</link>
+            <guid isPermaLink="false">59b7796d-6626-449b-a1ee-5095614b54bd</guid>
+            <pubDate>Thu, 19 Nov 2015 01:48:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
