@@ -1,0 +1,23 @@
+name: MokshaDestiny
+favicon: null
+layout_spectrum: 0.7920189101714641
+typography_spectrum: 0.6871762548107654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.06509115570224822
+  lightness: 0.3753886737395078
+  saturation: 0.13789844419807196
+  rhythmicContrast: 0.13876502169296145
+purpose: []
